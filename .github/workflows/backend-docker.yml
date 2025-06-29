@@ -36,3 +36,5 @@ jobs:
           file: ./server/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/rss-backend:latest
+
+        #   triggering workflow
