@@ -27,9 +27,8 @@
 - **Docker**: Containerized deployment
 
 ### Frontend (React)
-- **Framework**: React 18 with TypeScript
-- **Styling**: Tailwind CSS
-- **State Management**: React Context/Redux
+- **Framework**: React 18 with JavaScript
+- **Styling**: Tailwind CSS  
+- **State Management**: React Context API / useState hooks
 - **HTTP Client**: Axios
 - **Build Tool**: Vite
-
